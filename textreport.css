@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #e1f1df;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.judul {
+    font-size: 28px;
+    margin-top: 10px;
+    color: #114b4a;
+}
+
+.box {
+    width: 60%;
+    margin: auto;
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    text-align: justify;
+    box-shadow: 0 0 10px #114b4a;
+}
+
+.box p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
